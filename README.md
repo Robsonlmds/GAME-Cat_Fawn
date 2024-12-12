@@ -16,7 +16,8 @@ Cat Fawn é um jogo emocionante que combina aventura, desafios únicos e mecâni
   
 ## Demonstração
   
-  ![Demonstração do FIPECar](assets/gif/video-cat_fawn.gif)
+  ![Demonstração Game cat fawn ](assets/video-cat_fawn.gif)
+  
 </div>
 
 ---
